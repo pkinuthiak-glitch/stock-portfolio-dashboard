@@ -12,7 +12,7 @@ This interactive R Shiny dashboard provides comprehensive stock analysis capabil
 - **Signal annotations** with buy/sell indicators
 - **Data export** functionality for further analysis
 ## Repository Links
-- **GitHub Repository**: [https://github.com/YOUR_USERNAME/stock-portfolio-dashboard](https://github.com/YOUR_USERNAME/stock-portfolio-dashboard)
+- **GitHub Repository**: [https://github.com/YOUR_USERNAME/stock-portfolio-dashboard](https://github.com/pkinuthiak-glitch/stock-portfolio-dashboard)
 ## Features
 ### 1. Data Collection
 - Yahoo Finance integration using `quantmod`

@@ -1,5 +1,5 @@
 # ============================================================
-#  COMPLETE STOCK DASHBOARD - SAVE AS "portfolio dashboard.R"
+#  COMPLETE STOCK DASHBOARD -  "portfolio dashboard.R"
 # ============================================================
 
 # ── 1. Load Libraries ──────────────────────────────────────
